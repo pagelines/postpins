@@ -11,6 +11,8 @@
 	Version: 1.5
 	v3: true
 	Filter: format
+	Section: true
+	PageLines: true
 */
 
 
